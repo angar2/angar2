@@ -1,7 +1,10 @@
-## 👨🏽‍💻 엄관용입니다.
+## 👨🏽‍💻 안녕하세요 엄관용입니다.
+
+[포트폴리오 바로가기](https://github.com/angar2/portfolio)
 
 ![angar2's GitHub stats](https://github-readme-stats.vercel.app/api?username=angar2&show_icons=true&theme=algolia)
 
+<br>
 
 ## ⚙ Skills
 
